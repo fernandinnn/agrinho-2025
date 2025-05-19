@@ -24,3 +24,14 @@ body{
     color: var(--text-color);
     line-height: 1.6;
 }
+h3{
+    margin-top: 25px
+}
+
+p{
+    margin-top: 20px
+}
+
+img{
+    max-width: 90%;
+}
