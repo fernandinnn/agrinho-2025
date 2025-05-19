@@ -17,3 +17,10 @@
     box-sizing: border-box;
     front-family: var(--font-body);
 }
+
+/* CORPO DA PAGINA*/
+body{
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
